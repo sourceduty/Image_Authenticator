@@ -1,6 +1,6 @@
 ![Image Authenticator](https://github.com/sourceduty/Image_Authenticator/assets/123030236/f611da15-7abf-4023-b96a-f5c128bd2307)
 
->  Determine if an image is real, fake, AI-generated or photoshopped.
+>  Conceptual custom GPT for determining if an image is real, fake, AI-generated or photoshopped.
 
 #
 
