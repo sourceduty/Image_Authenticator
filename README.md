@@ -9,6 +9,32 @@
 'Image Authenticator' can be immensely helpful in a variety of contexts. For journalists and news organizations, it ensures the credibility of visual content before publication. For businesses, it helps maintain the integrity of marketing materials and brand assets. Social media users can benefit from it by verifying the authenticity of images shared online, thus combating misinformation. Additionally, legal professionals might use this tool to verify the validity of photographic evidence. Overall, 'Image Authenticator' serves as a crucial resource for anyone needing to confirm the authenticity of images in an age where digital manipulation is increasingly sophisticated and prevalent.
 
 #
+### Example Usage
+
+Failed Image Authenticity Analysis
+
+![Quad Tracked Dirt Bike](https://github.com/sourceduty/Image_Authenticator/assets/123030236/3671c043-6039-400b-aae4-b1178cba285d)
+
+1. Metadata Examination:
+   - The image lacks EXIF metadata, which limits insights into its origin or the device used to capture it.
+
+2. Error Level Analysis (ELA):
+   - The ELA image does not show significant inconsistencies. The differences are mostly uniform, suggesting that the image has not been heavily edited or manipulated.
+
+3. Visual Inspection:
+   - The image appears realistic with natural elements, consistent lighting, and shadows.
+   - The tracked dirt bike and the rider's gear look plausible for a real-world scenario.
+
+4. AI Detection Tools:
+   - There are no immediate signs indicating the image is AI-generated or digitally manipulated based on the available analysis tools.
+
+Authenticity Rating:
+- [x] Real
+- [ ] Fake
+- [ ] AI-generated
+- [ ] Photoshopped
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
